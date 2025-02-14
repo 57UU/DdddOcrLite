@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DdddOcrSharp;
+namespace DdddOcrLite;
 
 public partial class DdddOcr
 {

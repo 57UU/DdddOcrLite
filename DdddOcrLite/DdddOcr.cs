@@ -7,7 +7,7 @@ using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
 using SixLabors.ImageSharp.Processing.Processors.Transforms;
 
-namespace DdddOcrSharp;
+namespace DdddOcrLite;
 
 public partial class DdddOcr:IDisposable
 {
